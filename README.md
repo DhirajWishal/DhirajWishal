@@ -6,7 +6,7 @@ I'm a university student following a computer science degree and I develop vario
 
 - 🔭 I’m currently working from home while going to university, and currently I'm working on Flint after work.
 - 📫 Ya'll can contact me through my [Email](mailto:wishaldhiraj@gmail.com) or via [Discord](Stonks#4423).
-- ⚡ Fun fact **THVja3kgZ3Vlc3M/IEhvdyBhYm91dCB0aGlzIG9uZT8KUkdGdGJpQjViM1VnY21WaGJHeDVJSGRoYm01aElHdHViM2MvSUU5cllYa2dhRzkzSUdGaWIzVjBJSFJvYVhNNklFNXFaMmRPZWxGblRucFJaMDU2UVdkT2VrMW5UVEJGWjAxcldXZE5hMWxuVG5wUlowNXFWV2RPYTFWblRtdFpaMDU2U1dkTmExVm5UbXBOWjA1cldXZE9hMUZuVFd0WlowNXFTV2RPUkd0blRucFJaMDVGUldkT2VsRm5UV3RWWjA1cVkyZE9hbXRuVG1wWlBRPT0=**
+- ⚡ Fun fact **aHR0cHM6Ly9wYXN0ZWJpbi5jb20vZEdyRmdmRm4=**
 
 ### Things I've worked with
 
