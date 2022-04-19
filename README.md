@@ -14,7 +14,6 @@ I'm a university student following a computer science degree and I develop vario
 
 [<img alt="VisualStudio" src="assets/Product-Icon.svg" height="50" />](https://visualstudio.microsoft.com/)
 [<img alt="VSCode" src="assets/Visual_Studio_Code_1.35_icon.svg.png" height="50" />](https://code.visualstudio.com/)
-[<img alt="Qt" src="assets/Qt_logo_2016.svg.png" height="50" />](https://www.qt.io/?hsLang=en)
 [<img alt="CLion" src="assets/clion_logo_300x300.png" height="50" />](https://www.jetbrains.com/clion/)
 [<img alt="IntelliJ IDEA" src="assets/IntelliJ_IDEA_Icon.svg.png" height="50" />](https://www.jetbrains.com/idea/)
 
@@ -32,3 +31,4 @@ I'm a university student following a computer science degree and I develop vario
 [<img alt="Vulkan" src="assets/1200px-Vulkan_API_logo.svg.png" height="50" />](https://www.vulkan.org/)
 [<img alt="NodeJS" src="assets/5968322.png" height="50" />](https://nodejs.org/en/)
 [<img alt="OpenCV" src="assets/OpenCV_logo_no_text_.png" height="50" />](https://opencv.org/)
+[<img alt="Qt" src="assets/Qt_logo_2016.svg.png" height="50" />](https://www.qt.io/?hsLang=en)
