@@ -17,11 +17,11 @@ I'm a university student following a computer science degree and I develop vario
 
 Editors
 
-[![VisualStudio](assets/Visual-Studio-Logo.png)](https://visualstudio.microsoft.com/)
-[![vsCode](assets/Visual_Studio_Code_1.35_icon.svg.png)](https://code.visualstudio.com/)
-[![Qt](assets/Qt_logo_2016.svg.png)](https://www.qt.io/?hsLang=en)
-[![CLion](assets/clion_logo_300x300.png)](https://www.jetbrains.com/clion/)
-[![IntellijIDEA](assets/IntelliJ_IDEA_Icon.svg.png)](https://www.jetbrains.com/idea/)
+[<img alt="VisualStudio" src="assets/Product-Icon.svg" height="50" />](https://visualstudio.microsoft.com/)
+[<img alt="VSCode" src="assets/Visual_Studio_Code_1.35_icon.svg.png" height="50" />](https://code.visualstudio.com/)
+[<img alt="Qt" src="assets/Qt_logo_2016.svg.png" height="50" />](https://www.qt.io/?hsLang=en)
+[<img alt="CLion" src="assets/clion_logo_300x300.png" height="50" />](https://www.jetbrains.com/clion/)
+[<img alt="IntelliJ IDEA" src="assets/IntelliJ_IDEA_Icon.svg.png" height="50" />](https://www.jetbrains.com/idea/)
 
 Technologies
 
