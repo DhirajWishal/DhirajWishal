@@ -25,7 +25,7 @@ I'm a university student following a computer science degree and I develop vario
 
 #### Technologies
 
-[<img alt="Vulkan" src="assets/1200px-Vulkan_API_logo.svg.png height="50" />](https://www.vulkan.org/)
+[<img alt="Vulkan" src="assets/1200px-Vulkan_API_logo.svg.png" height="50" />](https://www.vulkan.org/)
 [<img alt="Qt" src="assets/Qt_logo_2016.svg.png" height="50" />](https://www.qt.io/?hsLang=en)
 [<img alt="NodeJS" src="assets/5968322.png" height="50" />](https://nodejs.org/en/)
 [<img alt="OpenCV" src="assets/OpenCV_logo_no_text_.png" height="50" />](https://opencv.org/)
