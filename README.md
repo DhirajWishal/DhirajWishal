@@ -5,7 +5,7 @@
 I'm a university student following a computer science degree and I develop various applications in my free time.
 
 - 🔭 I’m currently working from home while going to university, and currently I'm working on Flint after work.
-- 📫 Ya'll can contact me through my [Email](mailto:wishaldhiraj@gmail.com) or via [Discord](https://discord.com/) ID: Stonks#4423.
+- 📫 Ya'll can contact me through my [Email](mailto:wishaldhiraj@gmail.com) or via [Discord](https://discord.com/) (ID: Stonks#4423).
 - ⚡ Fun fact **aHR0cHM6Ly9wYXN0ZWJpbi5jb20vZEdyRmdmRm4=**
 
 ### Things I've worked with
