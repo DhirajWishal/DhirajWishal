@@ -24,6 +24,7 @@ I'm a university student following a computer science degree and I develop vario
 [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>](https://dart.dev)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>](https://www.java.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>](https://www.typescriptlang.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>](https://www.python.org)
 
 #### Frameworks
