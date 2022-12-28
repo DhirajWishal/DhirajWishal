@@ -4,8 +4,8 @@
 
 I'm a university student following a computer science degree and I develop various applications in my free time.
 
-- 🔭 I’m currently working from home while going to university, and currently I'm working on Flint after work.
-- 📫 Ya'll can contact me through my [Email](mailto:wishaldhiraj@gmail.com) or via [Discord](Stonks#4423).
+- 🔭 I’m currently working from home while going to university, and currently I'm working on [Xenon](https://github.com/DhirajWishal/Xenon) and [ShaderBuilder](https://github.com/DhirajWishal/ShaderBuilder) after work.
+- 📫 Ya'll can contact me through my [Email](mailto:wishaldhiraj@gmail.com) or via [Discord](https://discord.com/) (ID: Stonks#4423).
 - ⚡ Fun fact **aHR0cHM6Ly9wYXN0ZWJpbi5jb20vZEdyRmdmRm4=**
 
 ### Things I've worked with
@@ -24,6 +24,7 @@ I'm a university student following a computer science degree and I develop vario
 [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>](https://dart.dev)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>](https://www.java.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>](https://www.typescriptlang.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>](https://www.python.org)
 
 #### Frameworks
