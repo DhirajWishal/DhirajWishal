@@ -4,7 +4,7 @@
 
 I'm a university student following a computer science degree and I develop various applications in my free time.
 
-- 🔭 I’m currently working from home while going to university, and currently I'm working on [Xenon](https://github.com/DhirajWishal/Xenon) and [ShaderBuilder](https://github.com/DhirajWishal/ShaderBuilder) after work.
+- 🔭 I’m currently working from home while going to university, and currently I'm working on [Xenon](https://github.com/DhirajWishal/Xenon) and [Peregrine](https://github.com/DhirajWishal/Peregrine) after work.
 - 📫 Ya'll can contact me through my [Email](mailto:wishaldhiraj@gmail.com) or via [Discord](https://discord.com/) (ID: Stonks#4423).
 - ⚡ Fun fact **aHR0cHM6Ly9wYXN0ZWJpbi5jb20vZEdyRmdmRm4=**
 
@@ -34,3 +34,4 @@ I'm a university student following a computer science degree and I develop vario
 [<img alt="NodeJS" src="assets/5968322.png" height="50" />](https://nodejs.org/en/)
 [<img alt="OpenCV" src="assets/OpenCV_logo_no_text_.png" height="50" />](https://opencv.org/)
 [<img alt="Qt" src="assets/Qt_logo_2016.svg.png" height="50" />](https://www.qt.io/?hsLang=en)
+[<img alt="Arduino" src="assets/Arduino_Logo.svg.png" height="50" />](https://www.arduino.cc/)
