@@ -16,6 +16,7 @@ I'm a university student pursuing a computer science degree and I develop variou
 [<img alt="VSCode" src="assets/Visual_Studio_Code_1.35_icon.svg.png" height="50" />](https://code.visualstudio.com/)
 [<img alt="CLion" src="assets/clion_logo_300x300.png" height="50" />](https://www.jetbrains.com/clion/)
 [<img alt="IntelliJ IDEA" src="assets/IntelliJ_IDEA_Icon.svg.png" height="50" />](https://www.jetbrains.com/idea/)
+[<img alt="Xcode" src="assets/Xcode_14_icon.png" height="50" />](https://developer.apple.com/xcode/)
 
 #### Languages
 
