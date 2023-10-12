@@ -2,9 +2,9 @@
 
 [![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajwishal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a university student following a computer science degree and I develop various applications in my free time.
+I'm a university student pursuing a computer science degree and I develop various applications in my free time.
 
-- 🔭 I’m currently working from home while going to university, and currently I'm working on [Xenon](https://github.com/DhirajWishal/Xenon) and [Peregrine](https://github.com/DhirajWishal/Peregrine) after work.
+- 🔭 I’m currently working from home while going to university, and currently, I'm working on [Xenon](https://github.com/DhirajWishal/Xenon) and [Peregrine](https://github.com/DhirajWishal/Peregrine) after work.
 - 📫 Ya'll can contact me through my [Email](mailto:wishaldhiraj@gmail.com) or via [Discord](https://discord.com/) (ID: Stonks#4423).
 - ⚡ Fun fact **aHR0cHM6Ly9wYXN0ZWJpbi5jb20vZEdyRmdmRm4=**
 
@@ -26,6 +26,7 @@ I'm a university student following a computer science degree and I develop vario
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>](https://www.typescriptlang.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>](https://www.python.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>](https://www.swift.org)
 
 #### Frameworks
 
