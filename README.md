@@ -2,15 +2,11 @@
 
 [![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajwishal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a university student pursuing a computer science degree and I develop various applications in my free time.
+I'm a university student pursuing a computer science degree and also work from home. I develop various applications, libraries and frameworks in my free time.
 
-- 🔭 I’m currently working from home while going to university, and currently, I'm working on [Xenon](https://github.com/DhirajWishal/Xenon) and [Peregrine](https://github.com/DhirajWishal/Peregrine) after work.
-- 📫 Ya'll can contact me through my [Email](mailto:wishaldhiraj@gmail.com) or via [Discord](https://discord.com/) (ID: Stonks#4423).
-- ⚡ Fun fact **aHR0cHM6Ly9wYXN0ZWJpbi5jb20vZEdyRmdmRm4=**
+## Things I've worked with
 
-### Things I've worked with
-
-#### Editors
+### Editors
 
 [<img alt="VisualStudio" src="assets/Product-Icon.svg" height="50" />](https://visualstudio.microsoft.com/)
 [<img alt="VSCode" src="assets/Visual_Studio_Code_1.35_icon.svg.png" height="50" />](https://code.visualstudio.com/)
@@ -18,7 +14,7 @@ I'm a university student pursuing a computer science degree and I develop variou
 [<img alt="IntelliJ IDEA" src="assets/IntelliJ_IDEA_Icon.svg.png" height="50" />](https://www.jetbrains.com/idea/)
 [<img alt="Xcode" src="assets/Xcode_14_icon.png" height="50" />](https://developer.apple.com/xcode/)
 
-#### Languages
+### Languages
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>](https://www.cprogramming.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>](https://www.w3schools.com/cpp/)
@@ -29,7 +25,7 @@ I'm a university student pursuing a computer science degree and I develop variou
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>](https://www.python.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>](https://www.swift.org)
 
-#### Frameworks
+### Frameworks
 
 [<img alt="Vulkan" src="assets/1200px-Vulkan_API_logo.svg.png" height="50" />](https://www.vulkan.org/)
 [<img alt="DirectX 12" src="assets/directx-12-download-for-windows-10.png" height="50" />](https://learn.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
