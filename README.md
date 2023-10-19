@@ -37,6 +37,6 @@ I'm a university student pursuing a computer science degree and also work from h
 
 [<img alt="Windows" src="assets/cute-ball-windows-icon-png-16.png" height="50" />](https://www.microsoft.com/en-us/windows/)
 [<img alt="Linux" src="assets/Icons8_flat_linux.svg.png" height="50" />](https://www.linuxfoundation.org/)
-[<img alt="Linux" src="assets/2235.png" height="50" />](https://www.apple.com/)
+[<img alt="Apple" src="assets/2235.png" height="50" />](https://www.apple.com/)
 [<img alt="Espressif" src="assets/espressif-icon-2048x2048-z4owwfhw.png" height="50" />](https://www.espressif.com/)
 [<img alt="Arduino" src="assets/Arduino_Logo.svg.png" height="50" />](https://www.arduino.cc/)
