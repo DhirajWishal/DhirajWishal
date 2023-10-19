@@ -8,17 +8,17 @@ I'm a university student pursuing a computer science degree and also work from h
 
 ### Editors
 
-[<img alt="VisualStudio" src="assets/Product-Icon.svg" height="50" />](https://visualstudio.microsoft.com/)
-[<img alt="VSCode" src="assets/Visual_Studio_Code_1.35_icon.svg.png" height="50" />](https://code.visualstudio.com/)
-[<img alt="CLion" src="assets/clion_logo_300x300.png" height="50" />](https://www.jetbrains.com/clion/)
-[<img alt="IntelliJ IDEA" src="assets/IntelliJ_IDEA_Icon.svg.png" height="50" />](https://www.jetbrains.com/idea/)
-[<img alt="Xcode" src="assets/Xcode_14_icon.png" height="50" />](https://developer.apple.com/xcode/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" height="50" />](https://visualstudio.microsoft.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="50" />](https://code.visualstudio.com/)
+[<img src="assets/clion_logo_300x300.png" alt="CLion" height="50" />](https://www.jetbrains.com/clion/)
+[<img src="assets/IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="50" />](https://www.jetbrains.com/idea/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" height="50" />](https://developer.apple.com/xcode/)
 
 ### Languages
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>](https://www.cprogramming.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>](https://www.w3schools.com/cpp/)
-[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>](https://dart.dev)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>](https://dart.dev)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>](https://www.java.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>](https://www.typescriptlang.org/)
@@ -27,16 +27,16 @@ I'm a university student pursuing a computer science degree and also work from h
 
 ### Frameworks
 
-[<img alt="Vulkan" src="assets/1200px-Vulkan_API_logo.svg.png" height="50" />](https://www.vulkan.org/)
-[<img alt="DirectX 12" src="assets/directx-12-download-for-windows-10.png" height="50" />](https://learn.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
-[<img alt="NodeJS" src="assets/5968322.png" height="50" />](https://nodejs.org/en/)
-[<img alt="OpenCV" src="assets/OpenCV_logo_no_text_.png" height="50" />](https://opencv.org/)
-[<img alt="Qt" src="assets/Qt_logo_2016.svg.png" height="50" />](https://www.qt.io/?hsLang=en)
+[<img src="assets/1200px-Vulkan_API_logo.svg.png" alt="Vulkan" height="50" />](https://www.vulkan.org/)
+[<img src="assets/directx-12-download-for-windows-10.png" alt="DirectX 12" height="50" />](https://learn.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="50" />](https://nodejs.org/en/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" height="50" />](https://opencv.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" height="50" />](https://www.qt.io/?hsLang=en)
 
 ### Platforms and Operating Systems
 
-[<img alt="Windows" src="assets/cute-ball-windows-icon-png-16.png" height="50" />](https://www.microsoft.com/en-us/windows/)
-[<img alt="Linux" src="assets/Icons8_flat_linux.svg.png" height="50" />](https://www.linuxfoundation.org/)
-[<img alt="Apple" src="assets/2235.png" height="50" />](https://www.apple.com/)
-[<img alt="Espressif" src="assets/espressif-icon-2048x2048-z4owwfhw.png" height="50" />](https://www.espressif.com/)
-[<img alt="Arduino" src="assets/Arduino_Logo.svg.png" height="50" />](https://www.arduino.cc/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="50" />](https://www.microsoft.com/en-us/windows/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" />](https://www.linuxfoundation.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Apple" height="50" />](https://www.apple.com/)
+[<img src="assets/espressif-icon-2048x2048-z4owwfhw.png" alt="Espressif" height="50" />](https://www.espressif.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" height="50" />](https://www.arduino.cc/)
