@@ -6,13 +6,14 @@ I'm a university student pursuing a computer science degree and also work from h
 
 ## Things I've worked with
 
-### Editors
+### Editors and Engines
 
 [<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="VisualStudio" height="50" />](https://visualstudio.microsoft.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="50" />](https://code.visualstudio.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" alt="CLion" height="50" />](https://www.jetbrains.com/clion/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="50" />](https://www.jetbrains.com/idea/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" height="50" />](https://developer.apple.com/xcode/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" height="50" />](https://unity.com/)
 
 ### Languages
 
