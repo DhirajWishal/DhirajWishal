@@ -14,6 +14,7 @@ I'm a university student pursuing a computer science degree and also work from h
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="50" />](https://www.jetbrains.com/idea/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" height="50" />](https://developer.apple.com/xcode/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" height="50" />](https://unity.com/)
+[<img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" height="50" />](https://www.kicad.org/)
 
 ### Languages
 
