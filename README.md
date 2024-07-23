@@ -14,7 +14,6 @@ I'm a university student pursuing a computer science degree and also work from h
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="50" />](https://www.jetbrains.com/idea/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" height="50" />](https://developer.apple.com/xcode/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" height="50" />](https://unity.com/)
-[<img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" height="50" />](https://www.kicad.org/)
 
 ### Languages
 
@@ -43,3 +42,10 @@ I'm a university student pursuing a computer science degree and also work from h
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Apple" height="50" />](https://www.apple.com/)
 [<img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="Espressif" height="50" />](https://www.espressif.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" height="50" />](https://www.arduino.cc/)
+
+### Others
+
+[<img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" height="50" />](https://www.kicad.org/)
+[<img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/fusion-360-product-design-extension-2023-simplified-badge-75x75.png" alt="Fusion 360" height="50" />](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription)
+[<img src="https://raw.githubusercontent.com/FreeCAD/FreeCAD/main/src/Gui/Icons/freecad.svg" alt="FreeCAD" height="50" />](https://www.freecad.org/)
+[<img src="https://cdn.openfoam.org/wp-content/uploads/2016/05/CFDfoundationLogoDark-600x600.png" alt="OpenFOAM" height="50" />](https://openfoam.org/)
