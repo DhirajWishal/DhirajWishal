@@ -2,7 +2,7 @@
 
 [![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajwishal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a university student pursuing a computer science degree and also work from home. I develop various applications, libraries and frameworks in my free time.
+I'm a software engineer with over 5 years of professional experience and more than 6 years of overall software development experience. I also hold a BSc (Hons) in Computer Science. I develop various applications, libraries and frameworks in my free time.
 
 ## Things I've worked with
 
